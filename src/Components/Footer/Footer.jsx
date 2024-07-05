@@ -52,7 +52,7 @@ export default function Footer() {
         align={{ base: "center", md: "center" }}
       >
         <Image style={{ height: "44px" }} src={logo} alt="logo" />
-        <Text>© 2023 Resume Builder, All rights reserved</Text>
+        <Text>© 2023 Get Resume, All rights reserved</Text>
         <Stack direction={"row"} spacing={6}>
           <SocialButton label={"Github"} href={""}>
             <FaGithub />
